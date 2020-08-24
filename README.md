@@ -1,4 +1,3 @@
-<img src="https://media1.giphy.com/media/3og0INtldac8gncQO4/giphy-downsized-large.gif" >
 
 ## Hello there 👋
 
