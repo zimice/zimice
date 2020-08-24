@@ -1,3 +1,5 @@
+<img src="https://media1.giphy.com/media/3og0INtldac8gncQO4/giphy-downsized-large.gif" width = 40 height = 40 />
+
 ## Hello there 👋
 
 - 🔭 I’m currently working on Mastering the backend with Node.js
