@@ -12,7 +12,6 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="zimice's GitHub Stats" src="https://github-readme-stats-zimice.vercel.app/api?username=zimice&show_icons=true&hide_border=true" />
-
+  <img align="left" alt="zimice's GitHub Stats" src="https://github-readme-stats-zimice.vercel.app/api/top-langs/?username=zimice&hide=javascript" />
 </details>
